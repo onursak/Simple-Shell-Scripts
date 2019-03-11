@@ -13,7 +13,7 @@ The output will be like this: <br />
 ** <br />
 
 ## Second program:
-This program finds max of integers that are given to the program as an input whic is ended by "end" word.
+This program finds max of integers that are given to the program as an input which is ended by "end" word.
 
 ## Third program:
 This program deletes files which have zero size in the given directory. If the directory is not given, program deletes empty files in the current directory. The directory paramater must be given as an paramater in the terminal like this: <br />
