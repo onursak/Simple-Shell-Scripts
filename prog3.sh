@@ -15,9 +15,9 @@ deletedfiles=0
 while read line
 do
 	string=($line) #Taking line as an array for splitting size and filename
-    size="${string[0]}"
+    	size="${string[0]}"
 	stringlength=${#string[@]}
-    filename="${string[@]: 1:$stringlength}"
+    	filename="${string[@]: 1:$stringlength}"
 	if [ "$size" = "0" ];  
 	then
 		rm "$filename"
