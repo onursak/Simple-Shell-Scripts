@@ -21,7 +21,7 @@ do
 	if [ "$size" = "0" ];  
 	then
 		rm "$filename"
-		((deletedfiles++)) #Incrementing deletedfiles
+		((deletedfiles++))
 	fi
 done < sizes.txt
 
