@@ -16,5 +16,5 @@ The output will be like this: <br />
 This program finds max of integers that are given to the program as an input which is ended by "end" word.
 
 ## Third program:
-This program deletes files which have zero size in the given directory. If the directory is not given, program deletes empty files in the current directory. The directory paramater must be given as an paramater in the terminal like this: <br />
+This program deletes files which have zero size in the given directory. If the directory is not given, program deletes empty files in the current directory. The directory parameter must be given as an parameter in the terminal like this: <br />
 ```./prog3 /home/...```
